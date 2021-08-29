@@ -1,2 +1,9 @@
-# resolution-and-screen-size
-ever wonder how resolution and screen size are related? read this
+# Resolution And Screen Size
+
+## Resolution
+
+## Pixel Per Inch
+
+## Overall Quality
+
+## Display Scaling
