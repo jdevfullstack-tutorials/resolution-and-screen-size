@@ -4,6 +4,6 @@
 
 ### Pixel Per Inch
 
-## Overall Quality
-
 ## Display Scaling
+
+## Overall Quality
