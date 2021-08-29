@@ -6,4 +6,8 @@
 
 ## Display Scaling
 
+### Windows Scaling
+
+### Mac Scaling
+
 ## Overall Quality
