@@ -2,7 +2,7 @@
 
 ## Resolution
 
-## Pixel Per Inch
+### Pixel Per Inch
 
 ## Overall Quality
 
