@@ -8,7 +8,7 @@ just like a computer monitor,
 there is a relationship between the
 two.
 
-1080p will not be always good if the
+1080p will not always be good if the
 screen monitor is large enough, say,
 32". That will be truly pixelated
 for normal viewing distance for
@@ -22,13 +22,13 @@ the better. But this should be in
 the context of the size of the screen.
 
 Resolution is always expressed as a 
-fixed number of pixel horizontally and
+fixed number of pixels horizontally and
 vertically. So, 1920x1080 resolution
 means, 1920 pixels arranged horizontally
 and 1080 pixels vertically.
 
-As was mentioned, this will not be 
-always good if the screen is large 
+As was mentioned, this will not 
+always be good if the screen is large 
 enough. This will be truly pixelated
 for normal viewing distance for
 a computer monitor.
@@ -36,8 +36,8 @@ a computer monitor.
 ### Pixel Per Inch
 Pixel Per Inch is the result when you
 compute the resolution against
-the size of the screen. This will 
-determine also whether a certain display
+the size of the screen. This will also 
+determine whether a certain display
 is retina or not.
 
 But don't you know that distance will
