@@ -8,16 +8,30 @@ just like a computer monitor,
 there is a relationship between the
 two.
 
+1080p will not be always good if the
+screen monitor is large enough, say,
+32". That will be truly pixelated
+for normal viewing distance for
+a computer monitor.
+
 ## Resolution
 Resolution is the clarity of an image
-on a given monitor.
+displayed on a screen. They always
+say that the higher the resolution,
+the better. But this should be in
+the context of the size of the screen.
 
-It is measured as the density of pixels
-on any given area. So, a 1080p screen
-will not always look good as 1080p on
-a larger screen. The same thing
-for 4k resolutions that are being
-branded wrongly most of the time.
+Resolution is always expressed as a 
+fixed number of pixel horizontally and
+vertically. So, 1920x1080 resolution
+means, 1920 pixels arranged horizontally
+and 1080 pixels vertically.
+
+As was mentioned, this will not be 
+always good if the screen is large 
+enough. This will be truly pixelated
+for normal viewing distance for
+a computer monitor.
 
 ### Pixel Per Inch
 Pixel Per Inch is the result when you
