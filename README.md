@@ -62,6 +62,21 @@ when you measure the PPI. Of course, the
 more pixel there is, the more demanding it
 is for the processor or the graphics card.
 
+## Resolution Of The Monitor
+Whether the computer supports the resolution
+of the monitor or not, it is the resolution
+of the display that tells the maximum
+resolution.
+
+For example, you bought 24" 1080p and
+you think that, for example, your
+MacBook Air can project 4k or higher
+on that external monitor. Although
+MacBook Air supports higher resolution,
+it will still project 1080p because
+that's the limit of the monitor you
+bought.
+
 ## Display Scaling
 Display scaling is another important one
 when you measure the overall quality of
