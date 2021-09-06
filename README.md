@@ -63,6 +63,15 @@ more pixel there is, the more demanding it
 is for the processor or the graphics card.
 
 ## Display Scaling
+Display scaling is another important one
+when you measure the overall quality of
+your display. Windows tend to be left behind
+when it comes to display scaling. It
+cannot make all the GUI components proportional
+to one another. For example, on a 1080p
+Windows 10 OS, 125% is the recommended scaling,
+yet, I cannot satisfy myself looking at the very
+large `Close` button of this Chrome, for example.
 
 ### Windows Scaling
 
