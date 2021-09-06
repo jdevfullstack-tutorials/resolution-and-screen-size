@@ -53,13 +53,13 @@ smartphones tend to be viewed at close range.
 
 For large monitors, this is really for 
 productivity. Mac emphasized it for
-productivity. The downside is that, it's
+productivity. The downside is that it's
 not good for highly-demanding games, where
 speed is the most important one.
 
-Retina displays tends to be pixel-densed
+Retina displays are pixel-densed
 when you measure the PPI. Of course, the
-more pixel there is, the more demanding it
+more pixels, the more demanding it
 is for the processor or the graphics card.
 
 ## Resolution Of The Monitor
