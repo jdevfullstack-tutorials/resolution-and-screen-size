@@ -97,8 +97,4 @@ that when you scale up a certain resolution,
 it will make the resolution lower. No, it is not.
 It only makes things bigger on your screen.
 
-### Windows Scaling
-
-### Mac Scaling
-
 ## Overall Quality
