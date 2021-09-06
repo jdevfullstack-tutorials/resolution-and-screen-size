@@ -73,6 +73,15 @@ Windows 10 OS, 125% is the recommended scaling,
 yet, I cannot satisfy myself looking at the very
 large `Close` button of this Chrome, for example.
 
+Yet one the iMac issued by my company, no matter
+whether you adjust the scaling up or down,
+you still get the proportion.
+
+Take note, this is always being misinterpreted
+that when you scale up a certain resolution,
+it will make the resolution lower. No, it is not.
+It only make the things bigger on your screen.
+
 ### Windows Scaling
 
 ### Mac Scaling
