@@ -80,7 +80,7 @@ bought.
 ## Display Scaling
 Display scaling is another important one
 when you measure the overall quality of
-your display. Windows tend to be left behind
+your display. Windows tends to be left behind
 when it comes to display scaling. It
 cannot make all the GUI components proportional
 to one another. For example, on a 1080p
@@ -95,7 +95,7 @@ you still get the proportion.
 Take note, this is always being misinterpreted
 that when you scale up a certain resolution,
 it will make the resolution lower. No, it is not.
-It only make the things bigger on your screen.
+It only makes things bigger on your screen.
 
 ### Windows Scaling
 
