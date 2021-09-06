@@ -45,6 +45,22 @@ really matter also? Even 1080p
 can be retina when far enough!
 
 ### About Retina
+The `Retina Display` term was popularized by
+Apple. Yet, high-end Android phones back then
+were naturally retina for a good quality 
+because, of course,
+smartphones tend to be viewed at close range.
+
+For large monitors, this is really for 
+productivity. Mac emphasized it for
+productivity. The downside is that, it's
+not good for highly-demanding games, where
+speed is the most important one.
+
+Retina displays tends to be pixel-densed
+when you measure the PPI. Of course, the
+more pixel there is, the more demanding it
+is for the processor or the graphics card.
 
 ## Display Scaling
 
