@@ -98,3 +98,16 @@ it will make the resolution lower. No, it is not.
 It only makes things bigger on your screen.
 
 ## Overall Quality
+As for productivity, I'm into Mac, all Mac,
+even MacBook Air can be projected to two
+4k monitors. iMac is perfect. 
+
+For gaming, nothing can replace Windows.
+
+This is actually being demonstrated by Joma Tech,
+
+![Joma Tech Setup](https://youtu.be/0oBi8OmjLIg)
+
+where, there is the Windows setup that later on
+he showed being used for gaming, and his productivity,
+the Mac with the two big ass monitors.
