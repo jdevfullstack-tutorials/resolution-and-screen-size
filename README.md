@@ -108,6 +108,7 @@ This is actually being demonstrated by Joma Tech,
 
 [![Watch the video](https://img.youtube.com/vi/0oBi8OmjLIg/hqdefault.jpg)](https://youtu.be/0oBi8OmjLIg)
 
-where, there is the Windows setup that later on
+where, there is the Windows setup that later on, \
+in another video,
 he showed being used for gaming, and his productivity,
 the Mac with the two big ass monitors.
