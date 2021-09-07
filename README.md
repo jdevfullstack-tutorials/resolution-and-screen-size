@@ -106,7 +106,7 @@ For gaming, nothing can replace Windows.
 
 This is actually being demonstrated by Joma Tech,
 
-![Joma Tech Setup](https://youtu.be/0oBi8OmjLIg)
+[![Watch the video](https://img.youtube.com/vi/0oBi8OmjLIg/hqdefault.jpg)](https://youtu.be/0oBi8OmjLIg)
 
 where, there is the Windows setup that later on
 he showed being used for gaming, and his productivity,
