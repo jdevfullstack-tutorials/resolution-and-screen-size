@@ -13,10 +13,8 @@ screen monitor is large enough, say,
 32". That will be truly pixelated
 for normal viewing distance for
 a computer monitor. Take note,
-large TV monitors have 1080p
-even for bigger screens but
-we are talking about computer
-monitors.
+larger TV monitors can be 1080p but
+we are talking about computer monitors.
 
 ## Resolution
 Resolution is the clarity of an image
