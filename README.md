@@ -100,7 +100,7 @@ it will make the resolution lower. No, it is not.
 It only makes things bigger on your screen.
 
 ## Overall Quality
-As for productivity, I'm into Mac, all Mac,
+As for productivity, I'm into Mac, all Macs,
 even MacBook Air can be projected to two
 4k monitors. iMac is perfect. 
 
