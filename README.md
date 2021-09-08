@@ -57,7 +57,7 @@ For large monitors, this is really for
 productivity. Mac emphasized it for
 productivity. The downside is that it's
 not good for highly-demanding games, where
-speed is the most important one.
+speed is a very crucial one.
 
 Retina displays are pixel-densed
 when you measure the PPI. Of course, the
@@ -90,7 +90,7 @@ Windows 10 OS, 125% is the recommended scaling,
 yet, I cannot satisfy myself looking at the very
 large `Close` button of this Chrome, for example.
 
-Yet one the iMac issued by my company, no matter
+Yet the iMac issued by my company, no matter
 whether you adjust the scaling up or down,
 you still get the proportion.
 
@@ -113,4 +113,5 @@ This is actually being demonstrated by Joma Tech,
 where, there is the Windows setup that later on, \
 in another video,
 he showed being used for gaming, and his productivity,
-the Mac with the two big ass monitors.
+the Mac with the two big ass monitors
+shown at the above image.
