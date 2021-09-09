@@ -114,4 +114,4 @@ where, there is the Windows setup that later on, \
 in another video,
 he showed being used for gaming, and his productivity,
 the Mac with the two big ass monitors
-shown at the above image.
+shown above.
