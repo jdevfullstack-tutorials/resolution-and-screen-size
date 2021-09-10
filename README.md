@@ -36,14 +36,14 @@ for normal viewing distance for
 a computer monitor.
 
 ### Pixel Per Inch
-Pixel Per Inch(PPI) is the result when you
+Pixel Per Inch (PPI) is the result when you
 compute the resolution against
 the size of the screen. This will also 
 determine whether a certain display
 is retina or not.
 
 But don't you know that distance
-is another factor also? Even 1080p
+is another factor? Even 1080p
 can be retina when far enough!
 
 ### About Retina
