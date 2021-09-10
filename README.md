@@ -36,7 +36,7 @@ for normal viewing distance for
 a computer monitor.
 
 ### Pixel Per Inch
-Pixel Per Inch is the result when you
+Pixel Per Inch(PPI) is the result when you
 compute the resolution against
 the size of the screen. This will also 
 determine whether a certain display
