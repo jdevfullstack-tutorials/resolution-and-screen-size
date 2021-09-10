@@ -106,7 +106,8 @@ even MacBook Air can be projected to two
 
 For gaming, nothing can replace Windows.
 
-This is actually being demonstrated by Joma Tech,
+This is actually being demonstrated by Joma Tech
+at this vlog,
 
 [![Watch the video](https://img.youtube.com/vi/0oBi8OmjLIg/hqdefault.jpg)](https://youtu.be/0oBi8OmjLIg)
 
