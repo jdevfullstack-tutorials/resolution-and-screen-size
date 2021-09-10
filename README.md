@@ -42,8 +42,8 @@ the size of the screen. This will also
 determine whether a certain display
 is retina or not.
 
-But don't you know that distance will
-really matter also? Even 1080p
+But don't you know that distance
+is another factor also? Even 1080p
 can be retina when far enough!
 
 ### About Retina
