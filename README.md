@@ -1,4 +1,7 @@
 # Resolution And Screen Size
+
+*`updated 21 April 2022`*
+
 Resolution is the one that you always
 hear, just like "oh nice, the video is 1080p",
 "this camera is 1080p".
